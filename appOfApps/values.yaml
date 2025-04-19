@@ -2,7 +2,7 @@ name: composer-ai
 namespacePrefix: composer-ai-
 # Git Repository for the ArgoCD Application
 repo:
-  url: https://github.com/redhat-composer-ai/appOfApps.git # Change This on Fork
+  url: https://github.com/GeraldSP/appOfApps.git # Change This on Fork
   branch: main
 # Namespace for the ArgoCD Application
 gitops:
